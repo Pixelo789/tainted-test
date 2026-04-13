@@ -16,3 +16,4 @@ I hope I don't end up regretting this.
 * Claude:
 	* Email (`noreply@anthropic.com`)
 	* "Model name" + email
+	* "🤖 Generated with Claude Code" line
