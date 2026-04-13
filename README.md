@@ -20,3 +20,4 @@ I hope I don't end up regretting this.
 * Copilot:
 	* Email:
 		* `175728472+Copilot@users.noreply.github.com`
+		* `198982749+Copilot@users.noreply.github.com`
