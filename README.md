@@ -31,6 +31,8 @@ I hope I don't end up regretting this.
 	* Username (`forge-code-agent`)
 * Qwen:
 	* Username (`qwencoder`)
+* Code Rabbit:
+	* "Summary by Coderabbit"
 * Generic:
 	* An "Assisted-by" line (I've only seen it used to attribute to LLMs)
 	* An "AI-assisted-by" line
