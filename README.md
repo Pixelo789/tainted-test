@@ -33,3 +33,4 @@ I hope I don't end up regretting this.
 	* Username (`qwencoder`)
 * Generic:
 	* An "Assisted-by" line (I've only seen it used to attribute to LLMs)
+	* An "AI-assisted-by" line
