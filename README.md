@@ -21,3 +21,5 @@ I hope I don't end up regretting this.
 	* Email:
 		* `175728472+Copilot@users.noreply.github.com`
 		* `198982749+Copilot@users.noreply.github.com`
+* Cursor:
+	* Email (`cursoragent@cursor.com`)
