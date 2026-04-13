@@ -10,3 +10,8 @@ Test repo for slop finding.
 Note that, despite the supposed contributors, *nothing in this repository or anything that I do is made with an LLM.*
 
 I hope I don't end up regretting this.
+
+## Fake commits
+
+* Claude:
+	* Email (`noreply@anthropic.com`)
