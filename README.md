@@ -17,3 +17,6 @@ I hope I don't end up regretting this.
 	* Email (`noreply@anthropic.com`)
 	* "Model name" + email
 	* "🤖 Generated with Claude Code" line
+* Copilot:
+	* Email:
+		* `175728472+Copilot@users.noreply.github.com`
