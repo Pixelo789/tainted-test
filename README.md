@@ -23,3 +23,6 @@ I hope I don't end up regretting this.
 		* `198982749+Copilot@users.noreply.github.com`
 * Cursor:
 	* Email (`cursoragent@cursor.com`)
+* Google:
+	* Email:
+		* `161369871+google-labs-jules[bot]@users.noreply.github.com`
