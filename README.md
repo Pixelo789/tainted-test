@@ -27,3 +27,5 @@ I hope I don't end up regretting this.
 	* Email:
 		* `161369871+google-labs-jules[bot]@users.noreply.github.com`
 		* `176961590+gemini-code-assist[bot]@users.noreply.github.com`
+* Forge Code:
+	* Username (`forge-code-agent`)
